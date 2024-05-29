@@ -6,3 +6,7 @@ const likePost=()=>{
 const likePost=()=>{
   return true ;
 }
+const gitMe=(user)=>{
+  return this.user;
+}
+   
