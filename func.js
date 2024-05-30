@@ -9,4 +9,7 @@ const likePost=()=>{
 const gitMe=(user)=>{
   return this.user;
 }
-   
+   const jan=(kahn)=>{
+    console.log(kahn)
+
+   }
